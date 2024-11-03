@@ -11,8 +11,8 @@ Welcome to my repository! I'm Mirisam Jumabaev, a Python developer from Nukus, b
 I love learning new things and continuously improving my programming skills. Whether it's a new library, framework, or programming concept, I'm eager to dive in and explore.
 
 
-[<img src="https://img.icons8.com/material-outlined/24/000000/instagram-new.png"/> Instagram](https://www.instagram.com/mrxlsw) (replace with your actual link)
-[<img src="https://img.icons8.com/material-outlined/24/000000/telegram-app.png"/> Telegram](https://t.me/mrxlsw_world) (replace with your actual link)
-[<img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> GitHub](https://github.com/mrxlsw) (replace with your actual link)
+[<img src="https://img.icons8.com/material-outlined/24/000000/instagram-new.png"/> Instagram](https://www.instagram.com/mrxlsw)
+[<img src="https://img.icons8.com/material-outlined/24/000000/telegram-app.png"/> Telegram](https://t.me/mrxlsw_world) 
+[<img src="https://img.icons8.com/material-outlined/24/000000/github.png"/> GitHub](https://github.com/mrxlsw) 
 
 Thank you for visiting my profile!
