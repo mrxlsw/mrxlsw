@@ -12,7 +12,7 @@ I love learning new things and continuously improving my programming skills. Whe
 
 
 
-📸 [Instagram](https://www.instagram.com/mrxlsw)  
+📸 Inst: [](https://www.instagram.com/mrxlsw)  
 📱 [Telegram](https://t.me/mrxlsw_world)  
 🐙 [GitHub](https://github.com/mrxlsw)  
 
