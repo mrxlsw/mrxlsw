@@ -12,8 +12,8 @@ I love learning new things and continuously improving my programming skills. Whe
 
 
 
-📸 Inst: [](https://www.instagram.com/mrxlsw)  
-📱 [Telegram](https://t.me/mrxlsw_world)  
-🐙 [GitHub](https://github.com/mrxlsw)  
+📸 Instagram: [*click*](https://www.instagram.com/mrxlsw)  
+📱 Telegram: [*click*](https://t.me/mrxlsw_world)  
+🐙 GitHub [*click*](https://github.com/mrxlsw)  
 
 Thank you for visiting my profile!
