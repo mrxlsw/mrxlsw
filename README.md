@@ -13,13 +13,13 @@ I love learning new things and continuously improving my programming skills. Whe
 
 
 <a href="https://www.instagram.com/mrxlsw" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/instagram-new.png" alt="Instagram" style="width: 48px; height: 48px;"/>
+    <img src="https://img.icons8.com/material-outlined/48/000000/instagram-new.png" alt="Instagram" "/>
 </a>
 <a href="https://t.me/mrxlsw_world" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/telegram-app.png" alt="Telegram" style="width: 48px; height: 48px;"/>
+    <img src="https://img.icons8.com/material-outlined/48/000000/telegram-app.png" alt="Telegram" />
 </a>
 <a href="https://github.com/mrxlsw" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" style="width: 48px; height: 48px;"/>
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" />
 </a>
 
 Thank you for visiting my profile!
